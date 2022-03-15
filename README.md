@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm vishnu shaji
 #### cyber security , app development
-I'm vishnu shaji and I do content on ui design and app development .I really enjoy learning language are like dart and flutter.
+I'm vishnu shaji and I do create on app development .I really enjoy learning language are like dart and flutter.
 
 🌱 I’m currently learning EHA,CEH,CFA,CWAP 
 
