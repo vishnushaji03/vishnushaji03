@@ -4,8 +4,7 @@ I'm vishnu shaji and I do create on app development .I really enjoy learning lan
 
 🌱 I’m currently learning EHA,CEH,CFA,CWAP 
 
-Skills :
-
+-Language and tools :
 C/ C++/ DART/ FLUTTER/ JAVA/ HTML / CSS
 
 - 📫 How to reach me: vks41971@gmail.com 
