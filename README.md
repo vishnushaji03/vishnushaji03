@@ -1,8 +1,9 @@
-### Hi there 👋, vishnu shaji
+### Hi there 👋, I'm vishnu shaji
 #### cyber security , app development
 I'm vishnu shaji and I do content on ui design and app development .I really enjoy learning language are like dart and flutter.
 
-Skills: DART/ FLUTTER/ JAVA/ HTML / CSS
+Skills
+C/ C++/ DART/ FLUTTER/ JAVA/ HTML / CSS
 
 - 🌱 I’m currently learning EHA,CEH,CFA,CWAP 
 - 📫 How to reach me: vks41971@gmail.com 
